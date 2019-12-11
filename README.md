@@ -1,2 +1,2 @@
-# kayla8693.github.io
-My Github Pages
+# Portfolio
+Portfolio to showcase myself, my projects to potential employers
